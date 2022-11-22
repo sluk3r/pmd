@@ -81,3 +81,8 @@ See [credits](docs/pages/pmd/projectdocs/credits.md) for the complete list.
 ## 📝 License
 
 [BSD Style](LICENSE)
+
+
+## What does it mean? 
+*   [What does it mean?](https://pmd.sourceforge.io/pmd-5.0.4/meaning.html)
+*   [What is the full form of PMD?](https://stackoverflow.com/questions/17564726/what-is-the-full-form-of-pmd)
